@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktor-Zhuravlev
 - 👀 I’m interested in Data Science, Algo-Trading, Kaggle
-- 🌱 I’m currently learning Yandex Practicum (Data Science)
+- 🌱 I’m currently working at Solutions Architects (Data Scientist)
 - 📫 How to reach me viktor.zhuravlev1984@gmail.com
 
 <!---
